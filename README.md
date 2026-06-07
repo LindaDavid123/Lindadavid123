@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm an Information Systems student at Universitas AMIKOM Yogyakarta who is dedicated to bridging the gap between business needs and technological solutions. Driven by a strong passion for IT and Artificial Intelligence (AI), I constantly combine analytical thinking with agility to adapt to emerging tech trends to create efficient and impactful solutions.
+As an Information Systems student at Universitas Amikom Yogyakarta, I dedicate my academic journey to bridging the gap between business needs and technological solutions. My strong passion for Information Technology (IT) and Artificial Intelligence (AI) has driven me to master systems analysis and data processing through various independent projects. I firmly believe that the best technology is one that delivers strategic value to an organization. Therefore, I constantly combine analytical thinking with the agility to adapt to emerging tech trends to create efficient and impactful solutions.
 
 ### What I'm Up To
 
