@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Linda David 
 
-<!--
-**LindaDavid123/Lindadavid123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Information Systems Student | Cohort AI Engineer at Coding Camp 2026 | AI & Business Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm an Information Systems student at Universitas AMIKOM Yogyakarta who is dedicated to bridging the gap between business needs and technological solutions. Driven by a strong passion for IT and Artificial Intelligence (AI), I constantly combine analytical thinking with agility to adapt to emerging tech trends to create efficient and impactful solutions.
+
+### What I'm Up To
+
+- 🤖 **Coding Camp 2026:** Active as a Cohort AI Engineer.
+- ☁️ **Azure AI Foundry:** Designing intelligent conversations and managing advanced data preparation (Big Data).
+- 🌐 **Web Development & Analysis:** Building adaptive digital business platforms like *Usahain* by combining business requirements with technology implementation.
+
+### Tech Stack
+
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/artificial%20intelligence-%23000000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linda-david-063223411)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lindadavid?igsh=bXBqbXc2bHVseXpq&utm_source=qr)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lindadavid_82487)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lindaadavid123@gmail.com)
