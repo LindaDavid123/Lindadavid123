@@ -1,7 +1,7 @@
 # Hi, I'm Linda David 
 
 <p align="center">
-  <b>Information Systems Student | Cohort AI Engineer at Coding Camp 2026 | AI & Business Enthusiast</b>
+  <b>Information Systems Student| AI Engineer | Business Enthusiast</b>
 </p>
 
 ---
